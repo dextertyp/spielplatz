@@ -21,7 +21,7 @@ public class FilmTestlauf {
 		meineFilme[1].titel = "Zwei Variablen trumpfen auf";
 		meineFilme[1].genre = "Komödie";
 		
-		meineFilme[2].titel = "Die Hölle des Ludenkönigs";
+		meineFilme[2].titel = "Die Hölle des gelben Königs";
 		meineFilme[2].genre = "Horror";
 
 		for (int i = 0; i<eingabe;i++) {
