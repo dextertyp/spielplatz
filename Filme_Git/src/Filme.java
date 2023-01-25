@@ -5,9 +5,8 @@ public class Filme {
 	String genre;
 	
 	
-	void vorführen() {
-		System.out.println("Titel: " + titel);
-		System.out.println("Genre: " + genre);
+	void vorfÃ¼hren() {
+		System.out.printf("Titel: %s, Genre: %s", title, genre);
 	}
 	
 	
